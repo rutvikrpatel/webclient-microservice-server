@@ -1,18 +1,18 @@
-# webclient-microservice-server
-> Day 3 - Spring Boot - Web Client Micro Service (main view for user)
+# webclient-microservice-server - PART 3
+> Day 3 - Spring Boot - Web Client Micro Service (main view for user) - PART 3
 
 ### Description
 These project is the front view of the application. From which we can access data of accounts-microservice-server.
 
 
 ## Screenshot
-#### 1. Home Page View
+#### 1. Home Page View - http://localhost:8080/
 ![](webclient-microservice-server-master3.1.JPG)
 
-#### 2.Account List View
+#### 2.Account List View - http://localhost:8080/accountList
 ![](webclient-microservice-server-master3.2.JPG)
 
-#### 3.Account View
+#### 3.Account View - http://localhost:8080/accountDetails?number=3
 ![](webclient-microservice-server-master3.3.JPG)
 
 
